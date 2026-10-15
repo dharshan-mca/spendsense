@@ -1,0 +1,6 @@
+{
+  "name": "SpendSense",
+  "description": "Smart UPI finance tracker with PDF statements, category budget limits, subscription reminders, split bills, and PIN security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
